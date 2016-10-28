@@ -1,2 +1,3 @@
 # hello-world
-brand new
+Seeking, searching, learning
+Added to define the person of today
